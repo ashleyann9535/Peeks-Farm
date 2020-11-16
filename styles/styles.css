@@ -1,10 +1,15 @@
 body{
    text-align: center;
    background: #ebecf1; 
+   color: #1b1c25;
 }
 
 h1{
     color: #ebecf1;
+}
+
+h2{
+    color: #1f4068;
 }
 
 /* Containers */
@@ -16,6 +21,9 @@ h1{
 /* Sections */
 .coloredSections{
     background: #206a5d;
+}
+.coloredSections h2{
+    color: #ebecf1;
 }
 
 /* Heading Section  */
