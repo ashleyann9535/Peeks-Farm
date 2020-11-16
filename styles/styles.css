@@ -43,19 +43,19 @@ h2{
     line-height: 1.5;
 }
 .farmingImage{
-    width: 35%;
-    margin-bottom: 50px;
+    width: 30%;
 }
 
 .farmingInfo{
     text-align: left;
-    width: 50%;
+    width: 75%;
     display: inline-block;
 }
 
 .floatLeft{
     float: left;
     margin-right: 15px;
+    padding-bottom: 7%;
 }
 
 .floatRight{
