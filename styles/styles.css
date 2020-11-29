@@ -4,6 +4,15 @@ body{
    color: #1b1c25;
 }
 
+  
+.siteOff{
+    display: none;
+  }
+
+.siteOn{
+    visibility: visible;
+}
+
 h1{
     color: #ebecf1;
 }
