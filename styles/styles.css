@@ -39,6 +39,18 @@ h2{
     color: #ebecf1;
 }
 
+/* Age Alert */
+.ageCheck{
+    font-size: 1.5rem;
+    margin-top: 100px;
+    padding: 3%;
+    width: 40%;
+    border: 7px solid #1f4068;
+    border-radius: 10px;
+    position: relative;
+    left: 30%;
+}
+
 /* Heading Section  */
 .headingImage{
     width: 100%;
