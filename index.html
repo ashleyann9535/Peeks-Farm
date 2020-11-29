@@ -34,7 +34,7 @@
     <link rel="stylesheet" href="styles/styles.css" />
   </head>
   <body>
-    <input type="checkbox" id="checkBox" class="age"/>
+    <input type="checkbox" id="checkBox" class="age" />
     <label for="checkbox" class="age">I am 21 years old or older</label>
     <!-- Navigation bar -->
     <div id="site" class="siteOff">
@@ -244,6 +244,24 @@
       <!-- Footer -->
       <section>
         <div class="container-fluid">
+          <form action="mailto" method="post">
+            <label for="Your Name">Your Name:</label>
+            <input type="text" id="name" placeholder="Name" /> 
+            <br>
+            <label for="Your email">Your Email:</label>
+            <input
+              type="email"
+              name="Email"
+              placeholder="Enter Email"
+              id="userEmail"
+            />
+            <br />
+            <label for="Your Message">Your Message:</label>
+            <br>
+            <textarea name="userMessage" id="" cols="35" rows="7"></textarea>
+            <br>
+            <input type="submit">
+          </form>
           <i class="socialMedia fab fa-facebook-f"></i>
           <i class="socialMedia fas fa-envelope"></i>
           <p>Coded by Shlee Design.</p>
