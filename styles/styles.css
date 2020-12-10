@@ -52,8 +52,13 @@ h2{
 }
 
 /* Heading Section  */
+#title{
+    height: 650px;
+}
 .headingImage{
-    width: 100%;
+    padding-top: 10px;
+    width: 65%;
+    height: 60%;
 }
 
 .titleName{
