@@ -167,3 +167,12 @@ h3{
 form{
     text-align: justify;
 }
+
+/* Store */
+.productTypes{
+    padding: 4% 7%;
+}
+
+.item{
+    width: 200px;
+}
